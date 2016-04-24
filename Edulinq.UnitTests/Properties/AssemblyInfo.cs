@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EdulinqLib")]
+[assembly: AssemblyTitle("Edulinq.UnitTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EdulinqLib")]
+[assembly: AssemblyProduct("Edulinq.UnitTests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b1fb1f5a-76b9-4e94-85fb-540926f08092")]
+[assembly: Guid("1f57a315-71a9-465a-97c9-b4499d1f51da")]
 
 // Version information for an assembly consists of the following four values:
 //
