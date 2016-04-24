@@ -10,6 +10,7 @@ namespace Edulinq
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
